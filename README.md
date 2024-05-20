@@ -1,6 +1,6 @@
 
 <div align="left">
-  <img height="60" src="https://readme-typing-svg.demolab.com/?lines=Hello%20There%20!!!..."  />
+  <img height="60" src="https://readme-typing-svg.demolab.com/?lines=Hello%20There%20!!..."  />
 </div>
 <hr />
 <br />
@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **whatever I know**
 
-- 💬 Ask me about **open source, projects, development**
+- 💬 Ask me about **Open Source, Projects, Development**
 
 - ⚡ Fun fact **The QWERTY keyboard was designed to slow you down.**
 
