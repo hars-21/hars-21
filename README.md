@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👯 I’m looking to collaborate on **whatever I know**
+- 👯 I’m looking to collaborate on **MERN Stack Development**
 
 - 💬 Ask me about **Open Source, Projects, Development**
 
