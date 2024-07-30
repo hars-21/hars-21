@@ -4,6 +4,8 @@
 <hr />
 <br />
 
+###
+
 # 🥇 <b>GSSOC(24) Badges 🪶</b><br>
 <div style='display:flex; align-items:center; gap:"10px";' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
@@ -13,7 +15,6 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" /></a>
 </div>
-
 
 ###
 
@@ -29,7 +30,7 @@
 
 - ⚡ Fun fact **The QWERTY keyboard was designed to slow you down.**
 
-  <br />
+<br />
 
 ###
 
@@ -90,7 +91,6 @@
 
 <br>
 
-
 ###
 
 ## 🌐 Connect with me:
@@ -129,8 +129,8 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/hars-21/count.svg?"  />
 </div>
-<br />
 
+<br />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hars-21&theme=radical&no-frame=true&no-bg=true&margin-w=4)
