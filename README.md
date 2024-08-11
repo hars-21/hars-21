@@ -1,7 +1,5 @@
 <div align="left">
-  <img height="60" src="https://readme-typing-svg.demolab.com/?lines=Bonjour!!"  />
-  <br />
-  <img height="60" src="https://readme-typing-svg.demolab.com/?lines=I am 'Harshil' a Developer!! "  />
+  <img height="60" src="https://readme-typing-svg.demolab.com/?lines=Hello There!!!"  />
 </div>
 <hr />
 <br />
