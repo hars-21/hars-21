@@ -1,5 +1,5 @@
 <div align="left">
-  <img height="60" src="https://readme-typing-svg.demolab.com/?lines=Hello There!!!"  />
+  <img height="60" src="https://readme-typing-svg.demolab.com/?lines=Hello There!! I'm 'Harshil Gupta'"  />
 </div>
 <hr />
 <br />
