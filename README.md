@@ -1,8 +1,9 @@
 <div align="center">
   
 # 👋 Hi There!! I'm Harshil Gupta 
+
 </div>
-<hr />
+
 <br />
 
 
