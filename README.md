@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi There!! I'm Harshil Gupta 
+# 👋 Hi There! I'm Harshil Gupta 
 
 </div>
 
