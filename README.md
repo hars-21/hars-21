@@ -74,13 +74,15 @@
 
 # 📊 GitHub Stats:
 
-<div align="left">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=hars-21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="160" alt="stats graph" />
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hars-21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> 
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=hars-21&locale=en&mode=daily&theme=great-gatsby&hide_border=false&border_radius=10" height="160" alt="streak graph"  />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hars-21&theme=radical" height="150" alt="Github Stats" />
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hars-21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" /> 
+
+<img src="https://github-readme-stats.vercel.app/api?username=hars-21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
+
+<img src="https://streak-stats.demolab.com?user=hars-21&locale=en&mode=daily&theme=great-gatsby&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 
 </div>
 
@@ -141,7 +143,17 @@
 
 <br />
 
-## 🏆 GitHub Trophies
+###
+
+<details>
+  
+<summary>
+  <b>
+    🏆 GitHub Trophies
+  </b>
+</summary> 
+
 ![](https://github-profile-trophy.vercel.app/?username=hars-21&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-###
+</details>
+
