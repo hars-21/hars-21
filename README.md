@@ -1,11 +1,8 @@
-<div align="center">
-  
-# 👋 Hi There! I'm Harshil Gupta 
+##
 
-</div>
+<h1 align="center">Hi, I am Harshil Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <br />
-
 
 ###
 
@@ -23,7 +20,6 @@
 
 <br />
 
-
 ###
 
 <div align="center">
@@ -33,7 +29,6 @@
 ###
 
 # 💻 Tech Stack:
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -69,7 +64,6 @@
 
 <br>
 
-
 ###
 
 # 📊 GitHub Stats:
@@ -78,7 +72,7 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hars-21&theme=radical" height="150" alt="Github Stats" />
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hars-21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hars-21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=hars-21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
 
@@ -86,11 +80,9 @@
 
 </div>
 
-
 ###
 
 ## 🌐 Connect with me:
-
 
 <div align="left">
   <a href="https://www.linkedin.com/in/harshil-sync/" target="_blank">
@@ -121,6 +113,7 @@
 ###
 
 # 🥇 <b>GSSOC(24) Badges 🪶</b><br>
+
 <div style='display:flex; align-items:center; gap:"10px";' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
@@ -131,7 +124,6 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
   </a>
 </div>
-
 
 ###
 
@@ -151,9 +143,8 @@
   <b>
     🏆 GitHub Trophies
   </b>
-</summary> 
+</summary>
 
 ![](https://github-profile-trophy.vercel.app/?username=hars-21&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 </details>
-
