@@ -20,15 +20,15 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on **Open Source Projects**
+🔭 I’m currently working on **[Project Mētis](project-metis.vercel.app)**
 
-- 🌱 I’m currently learning **Full Stack Development**
+🌱 I’m currently learning **React.Js**
 
-- 👯 I’m looking to collaborate on **MERN Stack Development**
+👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 💬 Ask me about **Open Source, Projects, Development**
+💬 Ask me about **Open Source, Web, Projects**
 
-- ⚡ Fun fact **The QWERTY keyboard was designed to slow you down.**
+📫 Contact me at **[Email me..](harshil.dev05@gmail.com)**
 
 ###
 
@@ -98,24 +98,13 @@
 
 ###
 
-## 👥 Profile Views
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/hars-21/count.svg?"  />
-</div>
-
-<br />
-
-###
-
 <details>
-  
-<summary>
-  <b>
-    🏆 GitHub Trophies
-  </b>
-</summary>
+<summary><b>🏆 GitHub Trophies</b></summary>
 
 ![](https://github-profile-trophy.vercel.app/?username=hars-21&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 </details>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+</p>
