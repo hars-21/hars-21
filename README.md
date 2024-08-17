@@ -63,13 +63,13 @@
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hars-21&theme=radical" height="150" alt="Github Stats" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hars-21&theme=radical" height="110"  alt="Github Stats" />
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hars-21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hars-21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="110" alt="languages graph" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=hars-21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=hars-21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="110" alt="stats graph" />
 
-<img src="https://streak-stats.demolab.com?user=hars-21&locale=en&mode=daily&theme=great-gatsby&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+<img src="https://streak-stats.demolab.com?user=hars-21&locale=en&mode=daily&theme=great-gatsby&hide_border=false&border_radius=5" height="110" alt="streak graph"  />
 
 </div>
 
