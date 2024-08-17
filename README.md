@@ -1,5 +1,3 @@
-##
-
 <h1 align="center">Hi, I am Harshil Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
@@ -18,7 +16,7 @@
 
 </div>
 
-# 💫 About Me:
+## 💫 About Me:
 
 🔭 I’m currently working on **[Project Mētis](project-metis.vercel.app)**
 
@@ -30,15 +28,11 @@
 
 📫 Contact me at **[Email me..](harshil.dev05@gmail.com)**
 
-###
-
 <!-- <div align="center">
   <img height="40" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
 </div> -->
 
-###
-
-# 🛠️ Languages & Tools :
+## 🛠️ Languages & Tools :
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -65,9 +59,7 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-###
-
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <div align="center">
 
@@ -81,9 +73,7 @@
 
 </div>
 
-###
-
-# 🥇 <b>GSSOC(24) Badges 🪶</b><br>
+## 🥇 <b>GSSOC(24) Badges 🪶</b><br>
 
 <div style='display:flex; align-items:center; gap:"10px";' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
@@ -95,8 +85,6 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
   </a>
 </div>
-
-###
 
 <details>
 <summary><b>🏆 GitHub Trophies</b></summary>
