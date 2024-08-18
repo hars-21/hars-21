@@ -1,4 +1,4 @@
-<img src="./assets/banner.gif" width="500">
+<div align="center"><img src="./assets/banner.gif" width="500"></div>
 
 ###
 
@@ -77,8 +77,28 @@
 
 </div>
 
-## 🥇 <b>GSSOC(24) Badges 🪶</b><br>
+## Open Source Journey:
 
+### SnowScript Winter Of Code
+
+<div align="left"></div>
+
+<div align="right">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SnowScriptWinterOfCode&repo=PortfolioCreations&theme=dark&description_lines_count=1)](https://github.com/ChromeGaming/Dot-Box)
+
+</div>
+
+<div align="left"></div>
+
+<div align="right">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChromeGaming&repo=Dot-Box&theme=dark&description_lines_count=1)](https://github.com/ChromeGaming/Dot-Box)
+
+</div>
+
+<details><summary> 🥇 <b>GSSOC(24) Badges 🪶</b><br>
+</summary>
 <div align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
@@ -89,6 +109,9 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
   </a>
 </div>
+</details>
+
+###
 
 <details>
 <summary><b>🏆 GitHub Trophies</b></summary>
