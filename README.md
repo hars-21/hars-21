@@ -32,10 +32,6 @@
 
 📫 Contact me at **[Email me..](harshil.dev05@gmail.com)**
 
-<!-- <div align="center">
-  <img height="40" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
-</div> -->
-
 ## 🛠️ Languages & Tools :
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -77,28 +73,24 @@
 
 </div>
 
-## Open Source Journey:
+## 📖 Open Source Journey:
 
-### SnowScript Winter Of Code
+**GSSoC Contributor (2024) -** Actively contributed to the Dot Box project during the GirlScript Summer of Code, merging 66 pull requests and addressing over 90 issues. Achieved 2,345 points on the [Leaderboard](https://gssoc.girlscript.tech/leaderboard), ranking 33rd out of more than 2,400 participants. Demonstrated expertise in open-source collaboration, problem-solving, and workflow automation.
 
-<div align="left"></div>
+<div align=center>
 
-<div align="right">
+### Top Contribution
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SnowScriptWinterOfCode&repo=PortfolioCreations&theme=dark&description_lines_count=1)](https://github.com/ChromeGaming/Dot-Box)
-
-</div>
-
-<div align="left"></div>
-
-<div align="right">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChromeGaming&repo=Dot-Box&theme=dark&description_lines_count=1)](https://github.com/ChromeGaming/Dot-Box)
+<a href="https://github.com/ChromeGaming/Dot-Box" >
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ChromeGaming&repo=Dot-Box&theme=dark&description_lines_count=1&show_owner=true" width="30%"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Rakesh9100/Beautiify" >
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakesh9100&repo=Beautiify&theme=dark&description_lines_count=1&show_owner=true" width="30%"></a>
 
 </div>
 
-<details><summary> 🥇 <b>GSSOC(24) Badges 🪶</b><br>
-</summary>
+<details>
+<summary> 🥇 <b>GSSOC(24) Badges 🪶</b></summary><br>
+
 <div align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
@@ -114,7 +106,7 @@
 ###
 
 <details>
-<summary><b>🏆 GitHub Trophies</b></summary>
+<summary><b>🏆 GitHub Trophies</b></summary><br>
 
 ![](https://github-profile-trophy.vercel.app/?username=hars-21&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
