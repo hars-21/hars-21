@@ -22,7 +22,7 @@
 
 ## 💫 About Me:
 
-<img src="./assets/side-img.jpeg" align="right" width="30%">
+<img src="./assets/side-image.jpeg" align="right" height="200">
 
 <div align="left" width="30%">
 
