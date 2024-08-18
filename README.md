@@ -22,6 +22,10 @@
 
 ## 💫 About Me:
 
+<img src="./assets/side-img.jpeg" align="right" width="30%">
+
+<div align="left" width="30%">
+
 🔭 I’m currently working on **[Project Mētis](project-metis.vercel.app)**
 
 🌱 I’m currently learning **React.Js**
@@ -31,6 +35,8 @@
 💬 Ask me about **Open Source, Web, Projects**
 
 📫 Contact me at **[Email me..](harshil.dev05@gmail.com)**
+
+</div>
 
 ## 🛠️ Languages & Tools :
 
