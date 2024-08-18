@@ -1,3 +1,7 @@
+<img src="./assets/banner.gif" width="500">
+
+###
+
 <h1 align="center">Hi, I am Harshil Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
@@ -75,7 +79,7 @@
 
 ## 🥇 <b>GSSOC(24) Badges 🪶</b><br>
 
-<div style='display:flex; align-items:center; gap:"10px";' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<div align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
