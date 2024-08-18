@@ -88,9 +88,9 @@
 ### Top Contribution
 
 <a href="https://github.com/ChromeGaming/Dot-Box" >
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ChromeGaming&repo=Dot-Box&theme=dark&description_lines_count=1&show_owner=true" width="30%"></a>&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ChromeGaming&repo=Dot-Box&theme=dark&description_lines_count=1&show_owner=true" width="37.5%"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Rakesh9100/Beautiify" >
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakesh9100&repo=Beautiify&theme=dark&description_lines_count=1&show_owner=true" width="30%"></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakesh9100&repo=Beautiify&theme=dark&description_lines_count=1&show_owner=true" width="37.5%"></a>
 
 </div>
 
