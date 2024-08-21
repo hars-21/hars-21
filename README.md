@@ -34,7 +34,7 @@
 
 💬 Ask me about **Open Source, Web, Projects**
 
-📫 Contact me at **[Email me..](harshil.dev05@gmail.com)**
+📫 Contact me at <a href="mailto:hars.dev05@gmail.com">Email Me..</a>
 
 </div>
 
