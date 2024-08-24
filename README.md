@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/harshil-gupta-b7a867293/">Harshil Gupta </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/harshil-gupta-b7a867293/" target="_blank">Harshil Gupta </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Exploring+New+Things;Full+Stack+Developer;Open+Source+Maestro;Learning+With+Building;Welcome...+!!&center=true">
