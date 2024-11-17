@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/harshil-gupta-b7a867293/">Harshil Gupta </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Hi, I'm <a href="https://harshilgupta.vercel.app/">Harshil Gupta </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Exploring+New+Things;Full+Stack+Developer;Open+Source+Maestro;Learning+With+Building;Welcome...+!!&center=true">
@@ -38,7 +38,7 @@
 
 </div>
 
-## 🛠️ Languages & Tools :
+## 💼 Languages & Tools :
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -88,11 +88,13 @@
 ### Top Contribution
 
 <a href="https://github.com/ChromeGaming/Dot-Box" >
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ChromeGaming&repo=Dot-Box&theme=dark&description_lines_count=1&show_owner=true" width="37.5%"></a>&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ChromeGaming&repo=Dot-Box&theme=dark&description_lines_count=1&show_owner=true" width="40%"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Rakesh9100/Beautiify" >
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakesh9100&repo=Beautiify&theme=dark&description_lines_count=1&show_owner=true" width="37.5%"></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakesh9100&repo=Beautiify&theme=dark&description_lines_count=1&show_owner=true" width="40%"></a>
 
 </div>
+
+###
 
 <details>
 <summary> 🥇 <b>GSSOC(24) Badges 🪶</b></summary><br>
