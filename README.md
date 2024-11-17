@@ -29,11 +29,11 @@
 
 🔭 I’m currently working on **[Project Mētis](https://project-metis.vercel.app/)**
 
-🌱 I’m currently learning **React.Js**
+🌱 I’m currently learning **TypeScript**
 
 👯 I’m looking to collaborate on **Full Stack Projects**
 
-💬 Ask me about **Open Source, Web, Projects**
+💬 Ask me about **Open Source, Development, Projects**
 
 📫 Contact me at <a href="mailto:hars.dev05@gmail.com">Email Me..</a>
 
