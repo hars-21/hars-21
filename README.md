@@ -23,15 +23,15 @@
 
 ## 💫 About Me:
 
-<img src="./assets/side-image.jpeg" align="right" height="200">
+<img src="./assets/side-image.jpeg" align="right" height="200" width="200">
 
 <div align="left" width="30%">
 
-🔭 I’m currently working on **[Project Mētis](https://project-metis.vercel.app/)**
+🔭 I’m currently working on **Ethan - AI Assistant**
 
-🌱 I’m currently learning **TypeScript**
+🌱 I’m currently learning **AI Agents**
 
-👯 I’m looking to collaborate on **Full Stack Projects**
+👯 I’m looking to collaborate on **Projects, Hackathons**
 
 💬 Ask me about **Open Source, Development, Projects**
 
@@ -74,13 +74,13 @@
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hars-21&theme=radical" height="130"  alt="Github Stats" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hars-21&theme=radical" height="130" width="450"  alt="Github Stats" />
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hars-21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="130" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hars-21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="130" width="250" alt="languages graph" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=hars-21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="130" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=hars-21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="130" width="375" alt="stats graph" />
 
-<img src="https://streak-stats.demolab.com?user=hars-21&locale=en&mode=daily&theme=great-gatsby&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
+<img src="https://streak-stats.demolab.com?user=hars-21&locale=en&mode=daily&theme=great-gatsby&hide_border=false&border_radius=5" height="130" width="400" alt="streak graph"  />
 
 </div>
 
@@ -93,9 +93,9 @@
 ### Top Contribution
 
 <a href="https://github.com/ChromeGaming/Dot-Box" >
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ChromeGaming&repo=Dot-Box&theme=dark&description_lines_count=1&show_owner=true" width="40%"></a>&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ChromeGaming&repo=Dot-Box&theme=dark&description_lines_count=1&show_owner=true" width="45%"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Rakesh9100/Beautiify" >
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakesh9100&repo=Beautiify&theme=dark&description_lines_count=1&show_owner=true" width="40%"></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakesh9100&repo=Beautiify&theme=dark&description_lines_count=1&show_owner=true" width="45%"></a>
 
 </div>
 
@@ -126,5 +126,5 @@
 </details>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=64&section=footer" alt="Footer"/>
 </p>
