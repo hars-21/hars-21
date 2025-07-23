@@ -29,9 +29,9 @@
 
 🔭 I’m currently working on **Ethan - AI Assistant**
 
-🌱 I’m currently learning **AI Agents**
+🌱 I’m currently learning about **DevOps**
 
-👯 I’m looking to collaborate on **Projects, Hackathons**
+👯 I’m looking to collaborate on **Open Source Projects**
 
 💬 Ask me about **Open Source, Development, Projects**
 
