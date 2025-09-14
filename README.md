@@ -5,12 +5,12 @@
 <h1 align="center">Hi, I'm <a href="https://harshilgupta.vercel.app/">Harshil Gupta </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Exploring+New+Things;Full+Stack+Developer;Open+Source+Maestro;Learning+With+Building;Welcome...+!!&center=true">
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Exploring+New+Things;Full+Stack+Developer;Open+Source+Contributor;Learning+With+Building;Welcome...+!!&center=true">
 </p>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/My-Portfolio-black)](https://harshilgupta.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/My-Portfolio-black)](https://harshilgupta.xyz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshil-sync)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_Harshil05_)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/NJEjK3qv)
@@ -35,7 +35,7 @@
 
 💬 Ask me about **Open Source, Development, Projects**
 
-📫 Contact me at <a href="mailto:hars.dev05@gmail.com">Email Me..</a>
+📫 Contact me at <a href="mailto:hars.dev05@gmail.com">harshil.dev05@gmail.com</a>
 
 </div>
 
@@ -98,23 +98,6 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakesh9100&repo=Beautiify&theme=dark&description_lines_count=1&show_owner=true" width="45%"></a>
 
 </div>
-
-###
-
-<details>
-<summary> 🥇 <b>GSSOC(24) Badges 🪶</b></summary><br>
-
-<div align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
-  </a>
-</div>
-</details>
 
 ###
 
