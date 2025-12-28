@@ -110,9 +110,9 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hars-21&theme=radical" height="130" width="450"  alt="Github Stats" />
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hars-21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="130" width="250" alt="languages graph" />
+<img src="https://harshil-github-stats.vercel.app/api/top-langs?username=hars-21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="130" width="250" alt="languages graph" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=hars-21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="130" width="375" alt="stats graph" />
+<img src="https://harshil-github-stats.vercel.app/api?username=hars-21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="130" width="375" alt="stats graph" />
 
 <img src="https://streak-stats.demolab.com?user=hars-21&locale=en&mode=daily&theme=great-gatsby&hide_border=false&border_radius=5" height="130" width="400" alt="streak graph"  />
 
