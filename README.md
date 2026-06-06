@@ -68,7 +68,7 @@ and performance constraints.
 ## GitHub Stats:
 
 ![Contribution Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hars-21&theme=radical)
-[![Top Languages](https://harshil-github-stats.vercel.app/api/top-langs?username=hars-21&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=true)](https://github.com/hars-21/github-readme-stats)
+[![Top Languages](https://harshil-github-stats.vercel.app/api/top-langs?username=hars-21&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=true&hide=dart)](https://github.com/hars-21/github-readme-stats)
 [![GitHub stats](https://harshil-github-stats.vercel.app/api?username=hars-21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false)](https://github.com/hars-21/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=hars-21&locale=en&mode=daily&theme=great-gatsby&hide_border=false&border_radius=5)](https://git.io/streak-stats)
 
