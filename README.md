@@ -13,43 +13,68 @@ I build backend systems, developer tools and products from the ground up, curren
 
 ## What I'm Building
 
-### [reqsh](https://github.com/hars-21/reqsh) - Interactive HTTP Shell
+### [PaperDrill](https://github.com/hars-21/paperdrill)
+
+A live exchange simulator with a price-time-priority matching engine, order book, REST API, and WebSocket market feed.
+
+- O(log n) price-level insertion and O(1) best-bid/ask lookup
+- Redis Streams for order sequencing and Redis Pub/Sub for correlated request/response
+- A separate worker consumes trades and builds OHLCV candles outside the matching path
+
+#### Production benchmark
+
+| Scenario               |           Workload |                                     Result | p95 latency |
+| ---------------------- | -----------------: | -----------------------------------------: | ----------: |
+| Unmatched limit orders |             10,000 |              517 orders/sec · 100% success |    163.2 ms |
+| Matched limit orders   |              5,000 |              507 orders/sec · 100% success |    168.4 ms |
+| Single-order sweep     | 1,000 maker orders |                      Completed in 148.4 ms |           — |
+| WebSocket fan-out      |    500 connections | Opened in 107 ms · 500/500 received update |     24.6 ms |
+
+[Live](https://www.paperdrill.dev) · [Source](https://github.com/hars-21/paperdrill)
+
+### [reqsh](https://github.com/hars-21/reqsh)
 A stateful alternative to curl, built from scratch in Rust - stores base URLs, headers and variables so you're not retyping the full request every time.
 
-- **48 GitHub stars · 111 release downloads · 59 installs via Crates.io · 3 external contributors**
-- Persistent sessions, variable interpolation and pretty-printed JSON output across 23 commands
-- Cuts ~10-15s off every repeated API call by eliminating request reconstruction
+- **50+ GitHub stars · 150+ release downloads · 70+ installs via Crates.io · 3 external contributors**
+- Keeps base URLs, headers, variables, saved requests, and command history across sessions
+- Uses an AST-based parser with separate execution and session modules
+- Supports 7 HTTP methods and ships binaries for macOS, Linux, and Windows
+- Built with Rust, Reqwest, Reedline, and Serde
 
-→ [reqsh.dev](https://www.reqsh.dev)
-
-### [PaperDrill](https://github.com/hars-21/paperdrill) - Exchange infrastructure for developers
-A limit-order matching engine and exchange backend, built to understand how real trading systems work end to end.
-
-- **3,392 orders/sec throughput · 0.82ms average match latency · 500 concurrent WebSocket connections with zero drops** (local benchmark)
-- Order book built for O(log n) insertion and O(1) best-bid/ask lookup, with price-time priority matching
-- Orders are sequenced through Redis Streams into a single-threaded matching engine, race conditions are eliminated by design, not patched with locks
-- A dedicated worker aggregates the trade stream into OHLCV candles in real time, independent of the matching engine's critical path
-
-→ [paperdrill.dev](https://www.paperdrill.dev)
+[Website](https://reqsh.dev) · [Source](https://github.com/hars-21/reqsh) · [Releases](https://github.com/hars-21/reqsh/releases)
 
 ---
 
 ## Tech
 
 **Languages**
-`Rust` `TypeScript` `JavaScript` `Python`
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
 
 **Backend**
-`Node.js` `Express` `Next.js` `REST APIs` `WebSockets`
 
-**Data & Infrastructure**
-`PostgreSQL` `Redis` `MongoDB` `Docker` `Linux` `Git` `Nginx`
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-**Going Deeper**
-`Concurrency` `Networking` `Async Systems` `Distributed Systems`
+**Data**
 
-**Currently Exploring**
-`LLM Fundamentals` `AI Systems`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
